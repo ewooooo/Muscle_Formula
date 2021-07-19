@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Muscle_Formula_APP"
