@@ -1,4 +1,4 @@
-package com.example.muscle_formula_app;
+package com.example.muscleformula;
 
 import org.junit.Test;
 

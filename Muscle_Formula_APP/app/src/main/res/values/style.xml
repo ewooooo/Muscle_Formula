@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:fontFamily">@font/nanumsquare_ac_eb</item>
+    </style>
+
+    <style name="BoldTextTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:fontFamily">@font/nanumsquare_b</item>
+    </style>
+
+</resources>
